@@ -1,6 +1,6 @@
 # Calculadora em React
 
-![Calculadora React](./imgs/calculadora-preview.png)
+![Calculadora React](./components/imgs/calculadora-preview.png)
 
 Este projeto é uma **calculadora funcional** desenvolvida como parte de uma atividade proposta no curso **React + Angular**, patrocinado pela **Accenture** em parceria com a **Uninassau Boa Viagem**.
 
